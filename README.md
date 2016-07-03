@@ -1,2 +1,4 @@
 # gocache
-Redis memcache in Go 
+Redis memcache in Go
+
+Built on github.com/garyburd/redigo 
